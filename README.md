@@ -40,6 +40,7 @@ Este projeto utiliza Python e SQL para realizar operações de banco de dados. A
     user='suporte'
     password='suporte'
     ```
+2. Executar o script SQL disponível no arquivo `database.sql` dentro do banco criado/apontado nas configurações anteriores.
 
 ## Executando o Projeto
 
